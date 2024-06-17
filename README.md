@@ -20,42 +20,42 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 * The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models. [PaperPaper](https://arxiv.org/abs/2309.06236) [GitHubGitHub](https://)
 
-* Large Language Models Are Zero-Shot Time Series Forecasters. [PaperPaper](https://arxiv.org/abs/2310.07820)[GitHubGitHub](https://)
+* Large Language Models Are Zero-Shot Time Series Forecasters. [PaperPaper](https://arxiv.org/abs/2310.07820) [GitHubGitHub](https://)
 
-* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. [PaperPaper](https://arxiv.org/abs/2310.04948)[GitHubGitHub](https://)
+* TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting. [PaperPaper](https://arxiv.org/abs/2310.04948) [GitHubGitHub](https://)
 
-* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. [PaperPaper](https://arxiv.org/abs/2310.01728)[GitHubGitHub](https://)
+* Time-LLM: Time Series Forecasting by Reprogramming Large Language Models. [PaperPaper](https://arxiv.org/abs/2310.01728) [GitHubGitHub](https://)
 
-* S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [PaperPaper](https://arxiv.org/pdf/2403.05798.pdf)[GitHubGitHub](https://)
+* S2IP-LLM: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting. [PaperPaper](https://arxiv.org/pdf/2403.05798.pdf) [GitHubGitHub](https://)
 
 ### 📍 Survey
 
-* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [SurveySurvey](https://arxiv.org/abs/2310.10196)[GitHubGitHub](https://)
+* Large Models for Time Series and Spatio-Temporal Data: A Survey and Outlook. [SurveySurvey](https://arxiv.org/abs/2310.10196) [GitHubGitHub](https://)
 
-* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [SurveySurvey](https://arxiv.org/abs/2402.02713)[GitHubGitHub](https://)
+* Position Paper: What Can Large Language Models Tell Us about Time Series Analysis. [SurveySurvey](https://arxiv.org/abs/2402.02713) [GitHubGitHub](https://)
 
-* Foundation Models for Time Series Analysis: A Tutorial and Survey [SurveySurvey](https://arxiv.org/abs/2403.14735)[GitHubGitHub](https://)
+* Foundation Models for Time Series Analysis: A Tutorial and Survey [SurveySurvey](https://arxiv.org/abs/2403.14735) [GitHubGitHub](https://)
 
 ### 📍 Similar Things
-* Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2305.15525)[GitHubGitHub](https://)
+* Large Language Models are Few-Shot Health Learners, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2305.15525) [GitHubGitHub](https://)
 
-* Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[PaperPaper](https://arxiv.org/abs/2303.12311)[GitHubGitHub](https://)
+* Frozen Language Model Helps ECG Zero-Shot Learning, in *arXiv* 2023.[PaperPaper](https://arxiv.org/abs/2303.12311) [GitHubGitHub](https://)
 
 ## 🧱 Foundation Models for Time Series
 
 *Recently, some kinds of Foundation Models (FMs) for Time Series (TS) have been proposed. These FMs aims to learn the representation of Time Series from large datasets and then transfer the representation to downstream tasks. Compared with TS-LLMs, these methods do not depend on the pretrained LLMs.*
 
-* Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [PaperPaper](https://arxiv.org/abs/2401.03955)[GitHubGitHub](https://)
+* Tiny Time Mixers (TTMs): Fast Pretrained Models for Enhanced Zero/Few-Shot Forecasting of Multivariate Time Series. [PaperPaper](https://arxiv.org/abs/2401.03955) [GitHubGitHub](https://)
 
-* A decoder-only foundation model for time-series forecasting. [PaperPaper](https://arxiv.org/abs/2310.10688)[GitHubGitHub](https://)
+* A decoder-only foundation model for time-series forecasting. [PaperPaper](https://arxiv.org/abs/2310.10688) [GitHubGitHub](https://)
 
-* TimeGPT-1. [PaperPaper](https://arxiv.org/abs/2310.03589?ref=emergentmind)[GitHubGitHub](https://)
+* TimeGPT-1. [PaperPaper](https://arxiv.org/abs/2310.03589?ref=emergentmind) [GitHubGitHub](https://)
 
-* Lag-Llama: Towards Foundation Models for Time Series Forecasting. [PaperPaper](https://arxiv.org/abs/2310.08278)[GitHubGitHub](https://)
+* Lag-Llama: Towards Foundation Models for Time Series Forecasting. [PaperPaper](https://arxiv.org/abs/2310.08278) [GitHubGitHub](https://)
 
-* Unified Training of Universal Time Series Forecasting Transformers. [PaperPaper](https://arxiv.org/abs/2402.02592)[GitHubGitHub](https://)
+* Unified Training of Universal Time Series Forecasting Transformers. [PaperPaper](https://arxiv.org/abs/2402.02592) [GitHubGitHub](https://)
 
-* MOMENT: A Family of Open Time-series Foundation Models. [PaperPaper](https://arxiv.org/abs/2402.03885)[GitHubGitHub](https://)
+* MOMENT: A Family of Open Time-series Foundation Models. [PaperPaper](https://arxiv.org/abs/2402.03885) [GitHubGitHub](https://)
 
 * Chronos: Learning the Language of Time Series [PaperPaper](https://arxiv.org/abs/2403.07815) [GitHubGitHub](https://github.com/amazon-science/chronos-forecasting)
 
@@ -79,8 +79,8 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 
 ### 📍 LLM/FM for Tabular Data
-* AnyPredict: Foundation Model for Tabular Prediction, in *arXiv* 2023. [\[Paper\]](https://arxiv.org/abs/2305.12081)
-* XTab: Cross-table Pretraining for Tabular Transformers, in *ICML* 2023. [\[Paper\]](https://arxiv.org/abs/2305.06090)
+* AnyPredict: Foundation Model for Tabular Prediction, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2305.12081)
+* XTab: Cross-table Pretraining for Tabular Transformers, in *ICML* 2023. [PaperPaper](https://arxiv.org/abs/2305.06090)
 
 ### 📍 LLM in Production (LLMOps)
-* Awesome-LLMOps. [\[GitHub\]](https://github.com/tensorchord/Awesome-LLMOps)
+* Awesome-LLMOps. [GitHubGitHub](https://github.com/tensorchord/Awesome-LLMOps)
