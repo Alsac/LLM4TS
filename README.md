@@ -12,13 +12,13 @@ This project collects the papers and codes of Large Language Models (LLMs) and F
 
 *After the success of BERT, GPT, and other LLMs in NLP, some researchers have proposed to apply LLMs to Time Series (TS) tasks. They fintune the LLMs on TS datasets and achieve state-of-the-art results.*
 
-* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [PaperPaper](https://arxiv.org/abs/2210.08964)[GitHubGitHub](https://)
-* One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2302.11939)[GitHubGitHub](https://)
-* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2306.11025)[GitHubGitHub](https://)
-* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. [PaperPaper](https://arxiv.org/abs/2308.08241)[GitHubGitHub](https://)
-* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [PaperPaper](https://arxiv.org/abs/2308.08469)[GitHubGitHub](https://)
+* PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting Hao, in *arXiv* 2022. [PaperPaper](https://arxiv.org/abs/2210.08964) [GitHubGitHub](https://)
+* One Fits All: Power General Time Series Analysis by Pretrained LM, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2302.11939) [GitHubGitHub](https://)
+* Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting, in *arXiv* 2023. [PaperPaper](https://arxiv.org/abs/2306.11025) [GitHubGitHub](https://)
+* TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series. [PaperPaper](https://arxiv.org/abs/2308.08241) [GitHubGitHub](https://)
+* LLM4TS: Two-Stage Fine-Tuning for Time-Series Forecasting with Pre-Trained LLMs. [PaperPaper](https://arxiv.org/abs/2308.08469) [GitHubGitHub](https://)
 
-* The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models. [PaperPaper](https://arxiv.org/abs/2309.06236)[GitHubGitHub](https://)
+* The first step is the hardest: Pitfalls of Representing and Tokenizing Temporal Data for Large Language Models. [PaperPaper](https://arxiv.org/abs/2309.06236) [GitHubGitHub](https://)
 
 * Large Language Models Are Zero-Shot Time Series Forecasters. [PaperPaper](https://arxiv.org/abs/2310.07820)[GitHubGitHub](https://)
 
